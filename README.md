@@ -1,5 +1,5 @@
 # gtest-min
-Minimal example for gtest.
+Minimal example for `cargo gtest`.
 Try it by running:
 `cargo gtest`
 or
